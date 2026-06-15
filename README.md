@@ -1,4 +1,4 @@
-Sujin Kim
+👋 About Me
 
 Technical PM · AI-assisted Workflow · AX/AI Product
 
