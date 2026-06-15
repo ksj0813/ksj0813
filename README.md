@@ -7,18 +7,6 @@ Technical PM · AI-assisted Workflow · AX/AI Product
 
 ---
 
-### 👋 About Me
-
-* 초기 개발 조직에서 **PRD, FSD, User Story, Jira, Notion** 기반으로 제품 목표와 개발 실행을 연결했습니다.
-
-* 작성한 PRD/FSD를 기반으로 **Cline Ruleset**을 설계해, AI-assisted coding 과정에서도 동일한 제품 맥락이 유지되도록 했습니다.
-
-* Jira, Notion, Slack 기반으로 **Task, 문서, 의사결정 흐름**이 분리되지 않도록 정리했습니다.
-
-* OpenAI API, STT/TTS 기반 AI 프로토타입을 구현하며, AI를 사용자 행동 흐름을 바꾸는 인터페이스로 경험했습니다.
-
-
----
 🔎 Interest
 
 `AI Product` `AX Workflow` `Technical PM` `Cline Ruleset`
