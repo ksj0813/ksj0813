@@ -1,13 +1,13 @@
-👋 About Me
+# 👋 About Me
 
-Technical PM · AI-assisted Workflow · AX/AI Product
+**Technical PM · AI-assisted Workflow · AX/AI Product**
 
 제품 요구사항을 실행 가능한 구조로 바꾸고,
 사람과 AI Agent가 같은 컨텍스트에서 일할 수 있도록 협업 흐름을 설계합니다.
 
 ---
 
-🔎 Interest
+## 🔎 Interest
 
 `AI Product` `AX Workflow` `Technical PM` `Cline Ruleset`
 `Structured Context` `Agentic Workflow` `Cloud Native` `DevOps`
@@ -15,7 +15,7 @@ Technical PM · AI-assisted Workflow · AX/AI Product
 
 ---
 
-✨ Featured Experience
+## ✨ Featured Experience
 
 **AI-assisted Development Context**
 PRD/FSD/User Story로 정리한 제품 요구사항을 Cline Ruleset에 반영해,
@@ -35,13 +35,13 @@ OpenAI API, Whisper STT, TTS를 활용해
 <img width="108" height="108" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/7702d4e5-c5c9-4c25-9ea7-11a57b99a9f3" />
 
 ---
-🌱 Currently Learning
+## 🌱 Currently Learning
 
-Agentic Workflow RAG Evaluation Kubernetes AI Search
+**`Agentic Workflow` `RAG` `Evaluation` `Kubernetes` `AI Search`**
 
 ---
 
-📬 Contact
+## 📬 Contact
 
 * GitHub: github.com/ksj0813
 * Email: [jiny6117@gmail.com](mailto:jiny6117@gmail.com)
