@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=👋🏻%20About%20Me&fontSize=50) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=👋🏻%20About%20Me&fontSize=50) 
 
 ## 👩🏻‍💻Technical PM · AI-assisted Workflow · AX/AI Product
 
